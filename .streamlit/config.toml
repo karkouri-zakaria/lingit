@@ -1,0 +1,13 @@
+[server]
+enableStaticServing = false
+headless = true
+maxUploadSize = 50
+enableCORS = false
+enableXsrfProtection = false
+runOnSave = true
+
+[client]
+toolbarMode = "minimal"
+
+[runner]
+fastReruns = true

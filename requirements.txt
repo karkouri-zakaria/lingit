@@ -1,0 +1,5 @@
+streamlit
+gtts
+openpyxl
+xlsxwriter
+mutagen
